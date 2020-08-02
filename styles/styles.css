@@ -1,11 +1,25 @@
+<<<<<<< HEAD
 body {
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+=======
+>>>>>>> cabecera
 .container {
+	margin: 0 auto;
+	text-align: center;
+	justify-content: center;
 	margin: 40px;
 	border: grey 3px solid;
 	text-align: left;
-	padding-left: 40px;
+}
+
+.cabecera {
+	background: red;
+	color: white;
+	text-align: center;
+	font-size: 1.8em;
+	border-radius: 5px;
+	width: 400px;
 }
