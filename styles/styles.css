@@ -8,6 +8,8 @@
 }
 
 .cabecera {
+	margin: 0 auto;
+	justify-content: center;
 	background: red;
 	color: white;
 	text-align: center;
