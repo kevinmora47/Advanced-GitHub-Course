@@ -14,7 +14,7 @@ body {
 .cabecera {
 	margin: 0 auto;
 	justify-content: center;
-	background: red;
+	background-color: blue;
 	color: white;
 	text-align: center;
 	font-size: 1.8em;
